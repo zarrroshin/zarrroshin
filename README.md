@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Zahra Roshani  
 
-<!--
-**zarrroshin/zarrroshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Shahid Beheshti University  
+💻 Backend Developer | Python | Django | Flask  
+🌱 Currently working on Django REST Framework & Celery  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+**Languages:** Python, SQL, HTML/CSS  
+**Frameworks:** Django, Flask, Django REST Framework  
+**Tools:** Git, Redis, Celery, PostgreSql, Docker 
+
+
+
+## 📈 GitHub Stats  
+![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarrroshin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarrroshin&layout=compact&theme=radical)
+
+
+
+## 📫 Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/zahraroshani)  
+- [GitHub](https://github.com/zarrroshin)  
+- ✉️ Email: Zahraroshani973@gmail.com
