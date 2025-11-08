@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Python, SQL, HTML/CSS  
+**Languages:** Python,Java ,SQL, HTML/CSS  
 **Frameworks:** Django, Flask, Django REST Framework  
 **Tools:** Git, Redis, Celery, PostgreSql, Docker 
 
