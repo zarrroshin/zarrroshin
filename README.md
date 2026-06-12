@@ -18,7 +18,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarrroshin&layout=compact&theme=radical)
 
 ### My Contribution Snake 🐍
-![snake gif](https://raw.githubusercontent.com/zarrroshin/zarrroshin/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## 📫 Connect with me  
