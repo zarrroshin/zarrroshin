@@ -13,11 +13,6 @@
 
 
 
-## 📈 GitHub Stats  
-![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarrroshin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarrroshin&layout=compact&theme=radical)
-
-
 ### My Contribution Snake 🐍
 
 <picture>
