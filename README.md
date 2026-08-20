@@ -80,9 +80,6 @@ Built an async FastAPI crawler service for a smart-pricing project, optimized fo
 ### 📊 GitHub Stats
 
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarrroshin&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</div>
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarrroshin&hide_border=true&theme=default" alt="GitHub Streak" />
 </div>
