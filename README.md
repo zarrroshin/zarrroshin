@@ -77,8 +77,6 @@ Built an async FastAPI crawler service for a smart-pricing project, optimized fo
 
 ---
 
----
-
 <div align="center">
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/zahraroshani/) · [Email](mailto:zahraroshani973@gmail.com)
