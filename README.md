@@ -77,13 +77,6 @@ Built an async FastAPI crawler service for a smart-pricing project, optimized fo
 
 ---
 
-### 📊 GitHub Stats
-
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zarrroshin&hide_border=true&theme=default" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
