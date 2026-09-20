@@ -56,6 +56,19 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zarrroshin&hide_border=true&ring=1F4E5F&fire=1F4E5F&currStreakLabel=1F4E5F)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=zarrroshin&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarrroshin&layout=compact&hide_border=true" height="150" alt="Top languages" />
+
+</div>
+
+---
+
 ### 🔭 Featured Projects
 
 #### 🛡️ Industrial Intrusion Detection System (IDS)
